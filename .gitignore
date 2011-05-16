@@ -1,0 +1,15 @@
+build/
+Makefile
+*.make
+obj/
+docs/html/
+*.sln
+*.vcproj
+*.user
+*.ncb
+*.suo
+*.swp
+*.pdb
+Debug/
+Release/
+.project
